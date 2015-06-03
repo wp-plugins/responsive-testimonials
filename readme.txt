@@ -12,6 +12,11 @@ A responsive, clean and easy way to display testimonials. Create testimonials, a
 == Description ==
 This plugin adds a “Testimonials” section to the admin panel which allows you to display your references/testimonials on your website the easy way. You can quickly add your testimonials with their authors, jobs and pictures. When done, simply re-order them at anytime and display them anywhere with a simple shortcode. What you see is what you get, and it’s totally free.  
 
+= No limitation for the Free version =
+The free version of the Responsive Testimonials plugin is **not limited** and does not contain any ad.     
+
+The [PRO version](http://wpdarko.com/responsive-testimonials/) gives you access to a lot of new features: additional layouts, heading quote, choose a color **per** testimonial, text-alignment, change picture’s size.
+
 = Available fields =
 * Author
 * Job/company
@@ -44,6 +49,11 @@ Find help in [our forums](http://wpdarko.com/support/) for this plugin (we’ll 
 Go to [the plugin's documentation](https://wpdarko.zendesk.com/hc/en-us/articles/206340897-Get-started-with-the-Responsive-Testimonials-plugin) for information on how to use it.
 
 == Frequently Asked Questions ==
+
+= No limitation for the Free version =
+The free version of the Responsive Testimonials plugin is **not limited** and does not contain any ad.     
+
+The [PRO version](http://wpdarko.com/responsive-testimonials/) gives you access to a lot of new features: additional layouts, heading quote, choose a color **per** testimonial, text-alignment, change picture’s size.
 
 = Usage =
 Go to [the plugin's documentation](https://wpdarko.zendesk.com/hc/en-us/articles/206340897-Get-started-with-the-Responsive-Testimonials-plugin) if you need more information on how to use this plugin.
