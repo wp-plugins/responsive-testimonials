@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl.html
 
-A responsive, clean and easy way to display testimonials. Create testimonials, add authors and their jobs and copy-paste the shortcode into any post/page.
+A responsive, clean and easy way to display testimonials. Create testimonials, add authors and their jobs and copy-paste the shortcode into any page.
 
 == Description ==
 This plugin adds a “Testimonials” section to the admin panel which allows you to display your references/testimonials on your website the easy way. You can quickly add your testimonials with their authors, jobs and pictures. When done, simply re-order them at anytime and display them anywhere with a simple shortcode. What you see is what you get, and it’s totally free.  
