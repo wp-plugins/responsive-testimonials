@@ -69,5 +69,10 @@ Find help in [our forums](http://wpdarko.com/support/) for this plugin (we’ll 
 4. Creating testimonials (admin view)
 5. Testimonial settings (admin view 2)
 
-== Changelog === 1.0 =
+
+== Changelog ==
+= 1.1 =
+* Fixed a spacing issue
+
+= 1.0 =
 * Responsive Testimonials custom type/shortcode

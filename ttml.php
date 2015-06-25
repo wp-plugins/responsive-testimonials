@@ -3,7 +3,7 @@
 Plugin Name: Responsive Testimonials
 Plugin URI: http://wpdarko.com/responsive-testimonials/
 Description: A responsive, clean and easy way to display testimonials. Create new testimonials, add authors and their jobs and copy-paste the shortcode into any post/page. Find help and information on our <a href="http://wpdarko.com/support/">support site</a>. This free version is NOT limited and does not contain any ad. Check out the <a href='http://wpdarko.com/responsive-testimonials/'>PRO version</a> for more great features.
-Version: 1.0
+Version: 1.1
 Author: WP Darko
 Author URI: http://wpdarko.com
 License: GPL2
@@ -561,7 +561,7 @@ function ttml_sc($atts) {
     $output .= '</div>'; //closing container
     $output .= '</div>'; //closing wrap
     $output .= '</div>'; //closing column number
-    $output .= '</div>'; //closing master (ttml)
+    $output .= '</div><div style="clear:both;"></div>'; //closing master (ttml)
 
     endforeach; wp_reset_query();
 	
