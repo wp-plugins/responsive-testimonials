@@ -2,7 +2,7 @@
 Contributors: spwebguy
 Tags: testimonial, testimonials, responsive, shortcode, responsive, reference, review
 Requires at least: 3.6
-Tested up to: 4.2.2
+Tested up to: 4.2.3
 Stable tag: trunk
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl.html
